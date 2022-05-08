@@ -1,6 +1,7 @@
 <template>
-  <div class="bg-red-500">
-    Hola mundo
+  <div class="flex flex-row ">
+    <div class="">Hola</div>
+    <div>Hola</div>
   </div>
   <router-view/>
 </template>
